@@ -1,7 +1,7 @@
 ### Hi there, I'm Vicky 👋
 
 CS Masters graduate.
-I am passion passionate to be a front end developer and I like Noodles 🍜
+I am passionate to be a front end developer and I like Noodles 🍜
 
 - 🔭 I’m currently working on finding my next job opportunity
 - 🌱 I have experience in using Java, Python, SQL, Html, CSS, JavaScript,Node.Js,Vue.
