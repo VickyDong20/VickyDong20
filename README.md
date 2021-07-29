@@ -1,8 +1,7 @@
 ### Hi there, I'm Vicky 👋
 
-CS Masters graduate.
-I am passionate to be an software developer and I like Noodles 🍜
+I am passionate to be a frontend developer and I like 🍓
 
-- 🔭 I’m currently working on finding my next job opportunity
-- 🌱 I have experience in using Java, Python, SQL, Html, CSS, JavaScript,Node.Js,Vue.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chang-dong-a5403119b/)
+- 🔭 I’m currently work as an junior frontend developer.
+- 🌱 I have experience in using Html, CSS, JavaScript,Node.Js,Vue,Java, Python, SQL.
+- 📫 How to reach me: [twitter](https://twitter.com/Vicky_VC_World)
